@@ -1,0 +1,6 @@
+{
+  "tailwindCSS.includeLanguages": { "plaintext": "html" },
+  "tailwindCSS.emmetCompletions": true,
+  "editor.inlineSuggest.enabled": true,
+  "editor.quickSuggestions": { "other": true, "comments": false, "strings": true }
+}
